@@ -1,0 +1,8 @@
+# El audio va en la release «audio», no en el historial
+*.mp3
+*.m4a
+
+# Sistema
+Thumbs.db
+desktop.ini
+.DS_Store
